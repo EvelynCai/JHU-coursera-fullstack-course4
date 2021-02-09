@@ -2,6 +2,7 @@
     color: #F2F2F2;
     box-sizing: border-box;
 }
+
 #header-nav {
     background-color:#BF046B;
 }
@@ -21,7 +22,6 @@ h1, .navbar-default .navbar-brand, .navbar-default .navbar-nav>li>a{
 }
 
 @media (max-width: 765px) {
-
     #collapsable-nav {
         background-color:#D9048E;
     }
