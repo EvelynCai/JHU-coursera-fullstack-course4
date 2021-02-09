@@ -1,35 +1,28 @@
+* {
+    color: #F2F2F2;
+    box-sizing: border-box;
+}
 #header-nav {
     background-color:#BF046B;
-}
-
-#collapsable-nav {
-    background-color:#D9048E;
-}
-
-.row {
-    background-color: #F285D5;
-    color: #F2F2F2;
 }
 
 .title {
     font-size: 1.5em;
 }
 
-
-h1 {
+h1, .navbar-default .navbar-brand, .navbar-default .navbar-nav>li>a{
     color: #4ECBD9;
 }
 
-.navbar-default .navbar-brand {
-    color: #4ECBD9;
+.section {
+    border: 1px solid;
+    padding: 1%;
+    background-color: #F285D5;
 }
 
-.navbar-default .navbar-nav>li>a {
-    color: #4ECBD9;
-}
+@media (max-width: 765px) {
 
-@media (min-width: 766px) {
-    #header-nav {
-        height: 20px;
+    #collapsable-nav {
+        background-color:#D9048E;
     }
 }
