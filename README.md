@@ -15,17 +15,20 @@ As part of this course we developed a *real* website for a *real* client. Below 
 
 ## Coding Assignments
 
-[Assignment 1 Description](https://github.com/jhu-ep-coursera/fullstack-course4/blob/master/assignments/assignment2/Assignment-2.md)
+[Assignment 1 Description](https://github.com/jhu-ep-coursera/fullstack-course4/blob/master/assignments/assignment2/Assignment-2.md) - 
 [Assignment 1 Demo](https://evelyncai.github.io/JHU-coursera-fullstack-course4/module2-solution/)
 
-[Assignment 2 Description](https://github.com/jhu-ep-coursera/fullstack-course4/blob/master/assignments/assignment3/Assignment-3.md)
+[Assignment 2 Description](https://github.com/jhu-ep-coursera/fullstack-course4/blob/master/assignments/assignment3/Assignment-3.md) - 
 [Assignment 2 Demo](https://evelyncai.github.io/JHU-coursera-fullstack-course4/module3-solution/index.html)
 
-[Assignment 3 Description](https://github.com/jhu-ep-coursera/fullstack-course4/blob/master/assignments/assignment4/Assignment-4.md)
+[Assignment 3 Description](https://github.com/jhu-ep-coursera/fullstack-course4/blob/master/assignments/assignment4/Assignment-4.md) - 
 [Assignment 3 Demo](https://evelyncai.github.io/JHU-coursera-fullstack-course4/module4-solution/harder/)
 
-[Assignment 4 Description](https://github.com/jhu-ep-coursera/fullstack-course4/blob/master/assignments/assignment5/Assignment-5.md)
+[Assignment 4 Description](https://github.com/jhu-ep-coursera/fullstack-course4/blob/master/assignments/assignment5/Assignment-5.md) - 
 [Assignment 4 Demo](https://evelyncai.github.io/JHU-coursera-fullstack-course4/module5-solution/assignment5-solution-starter/index.html)
+
+## Certificate
+
 
 ## Frequently Asked Questions
 Please check our FAQ to see if a question you want to ask on the forums has been answered already. Here is the link to the FAQ:
