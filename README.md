@@ -28,7 +28,7 @@ As part of this course we developed a *real* website for a *real* client. Below 
 [Assignment 4 Demo](https://evelyncai.github.io/JHU-coursera-fullstack-course4/module5-solution/assignment5-solution-starter/index.html)
 
 ## Certificate
-
+[View Coursera certificate here](https://coursera.org/share/b48175f7d00e6e2a2f3d7a4ccbd97fe0)
 
 ## Frequently Asked Questions
 Please check our FAQ to see if a question you want to ask on the forums has been answered already. Here is the link to the FAQ:
